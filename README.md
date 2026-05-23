@@ -1,14 +1,14 @@
 # DevPulse — Issue & Feature Tracker API
  
 ## Live URL
-https://your-railway-url.railway.app
+https://devpulse-sigma-eight.vercel.app/
  
 ## Tech Stack
 Node.js | TypeScript | Express.js | PostgreSQL (NeonDB) | JWT | bcrypt
  
 ## Setup
 ```
-git clone https://github.com/yourusername/devpulse.git
+git clone https://github.com/MstSubornaKhatun/devpulse
 cd devpulse
 npm install
 # create .env with DATABASE_URL and JWT_SECRET
